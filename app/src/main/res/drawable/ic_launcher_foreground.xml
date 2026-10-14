@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- Top left: rounded square (components/tokens) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M30,30h18c2.2,0 4,1.8 4,4v18c0,2.2 -1.8,4 -4,4h-18c-2.2,0 -4,-1.8 -4,-4v-18c0,-2.2 1.8,-4 4,-4z" />
+        
+        <!-- Top right: circle (color/palette) -->
+        <path
+            android:fillColor="#80D8FF"
+            android:pathData="M69,30c7.18,0 13,5.82 13,13s-5.82,13 -13,13s-13,-5.82 -13,-13s5.82,-13 13,-13z" />
+        
+        <!-- Bottom left: triangle / diamond / typography shape -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M39,58l13,24h-26z" />
+        
+        <!-- Bottom right: pill / capsule (actions/buttons) -->
+        <path
+            android:fillColor="#B388FF"
+            android:pathData="M62,60h12c4.4,0 8,3.6 8,8s-3.6,8 -8,8h-12c-4.4,0 -8,-3.6 -8,-8s3.6,-8 8,-8z" />
+        
+        <!-- Center connection dot / anchor -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,50a4,4 0 1,0 0.01,0z" />
+    </group>
+</vector>

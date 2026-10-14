@@ -1,0 +1,6 @@
+{
+  "name": "Design System Explorer",
+  "description": "Guía interactiva y educativa sobre los fundamentos de sistemas de diseño para interfaces móviles en Android con Material 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
